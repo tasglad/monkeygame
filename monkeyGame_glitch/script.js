@@ -22,8 +22,8 @@
  // Necessary variables to set up the API.
  // CHANGE pubKey and subKey to match with yours!!
  var dataServer;
- var pubKey = "pub-c-3c7c2bef-7955-4ec0-a01b-023c84c918ad"; //changed the pubKey
- var subKey = "sub-c-bf6e4322-2a8c-11eb-8e02-129fdf4b0d84";
+ var pubKey = "INSERT KEY HERE"; 
+ var subKey = "INSERT KEY HERE"; 
 
  // frame rate. Decides on how many times the screen gets updated each second.
  var fr = 10;
